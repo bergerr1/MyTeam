@@ -8,5 +8,7 @@ public class MainApp {
 		System.out.println("==" + player);
 		Player player2 = new Player(4, "Hinteregger", "Defense");
 		System.out.println("==" + player2);
+		
+		player = new Player(8, "Baumgartner", "thomas");
 	}
 }
