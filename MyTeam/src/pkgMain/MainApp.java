@@ -11,7 +11,7 @@ public class MainApp {
 		
 	
 		player = new Player(8, "Baumgartner", "thomas");
-		System.out.print("== " + player);
+		System.out.print("== " + player);;
 	}
 	
 	
